@@ -1,4 +1,4 @@
-..author: Guilhem MAS-PAITRAULT
+.. author: Guilhem MAS-PAITRAULT
 .. sectnum::
    :depth: 2
 
